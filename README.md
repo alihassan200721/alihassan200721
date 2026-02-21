@@ -2,8 +2,9 @@
 - 👀 I’m interested in conputer languages
 - 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me alihassan200721@gmail.com
+- 📫 How to reach me alihassanalihassan200721@gmail.com
 - 😄 Pronouns: he/him
+- linux fedora user :) 
 - ⚡ Fun fact: ...
 
 <!---
