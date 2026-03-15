@@ -34,7 +34,7 @@ Currently on my Python journey — working through fundamentals, building small 
 | os | fedora linux + hyprland |
 | 3d | blender |
 | editor | vs code |
-| terminal | alacritty |
+| terminal | kitty |
 | browser | firefox |
 | recording | obs studio |
 
