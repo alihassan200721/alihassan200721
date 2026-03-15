@@ -1,7 +1,7 @@
-# hey, i'm noir 👾
+# hey, i'm AliHassan 👾
 
 3D artist · linux tinkerer · python learner · eternal curious person
-
+timezone | PKT (UTC+5)
 ---
 
 ## what i do
